@@ -1,2 +1,13 @@
-# Final_challenge
-This is for me and Mr. Ebrahimi for the final challenge
+# Tank Project
+
+## Programming languages
+- Python
+
+## Platforms
+- Windows
+- Linux
+- Mac
+
+## *Contributors*
+- ***[Parsa Ghazipour](https://github.com/Ghazipour)***
+- *[Younes Ebrahimi](https://github.com/YounesEbrahimi)*
